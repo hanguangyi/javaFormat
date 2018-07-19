@@ -9,5 +9,5 @@
 
 #### IntelliJ
     1. File -> Settings -> Editor -> Code Style:
-        Scheme: Import Scheme: IDE/intellij/xiaomi.xml
+        Scheme: Import Scheme: IDE/intellij/format.xml
 ![](http://git.n.xiaomi.com/xiaomi-commons/coding-standard/raw/master/IDE/intellij/screenshot.png)
